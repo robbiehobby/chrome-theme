@@ -11,7 +11,7 @@
       "frame_inactive": [0, 0, 0],
       "frame_incognito": [84, 84, 84],
       "frame_incognito_inactive": [84, 84, 84],
-      "ntp_background": [12, 16, 24],
+      "ntp_background": [14, 18, 28],
       "ntp_link": [185, 195, 205],
       "ntp_text": [185, 195, 205],
       "omnibox_background": [25, 25, 35],
@@ -21,7 +21,7 @@
       "tab_background_text_incognito": [185, 195, 205],
       "tab_background_text_incognito_inactive": [128, 128, 128],
       "tab_text": [255, 255, 255],
-      "toolbar": [12, 16, 24],
+      "toolbar": [14, 18, 28],
       "toolbar_button_icon": [207, 218, 230]
     }
   }
