@@ -5,24 +5,24 @@
   "version": "1.0",
   "theme": {
     "colors": {
-      "bookmark_text": [207, 218, 230],
+      "bookmark_text": [183, 194, 204],
       "button_background": [0, 0, 0],
       "frame": [0, 0, 0],
       "frame_inactive": [0, 0, 0],
       "frame_incognito": [84, 84, 84],
       "frame_incognito_inactive": [84, 84, 84],
       "ntp_background": [14, 18, 28],
-      "ntp_link": [185, 195, 205],
-      "ntp_text": [185, 195, 205],
+      "ntp_link": [183, 194, 204],
+      "ntp_text": [183, 194, 204],
       "omnibox_background": [25, 25, 35],
-      "omnibox_text": [207, 218, 230],
+      "omnibox_text": [183, 194, 204],
       "tab_background_text": [128, 128, 128],
       "tab_background_text_inactive": [84, 84, 84],
-      "tab_background_text_incognito": [185, 195, 205],
+      "tab_background_text_incognito": [183, 194, 204],
       "tab_background_text_incognito_inactive": [128, 128, 128],
       "tab_text": [255, 255, 255],
       "toolbar": [14, 18, 28],
-      "toolbar_button_icon": [207, 218, 230]
+      "toolbar_button_icon": [183, 194, 204]
     }
   }
 }
