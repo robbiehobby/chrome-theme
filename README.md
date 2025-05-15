@@ -1,4 +1,4 @@
-## Chrome Minimal Theme
+## Chrome Theme
 
 ![](/metadata/screenshot-1.png)
 ![](/metadata/screenshot-2.png)
