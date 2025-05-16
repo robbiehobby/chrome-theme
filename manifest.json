@@ -11,7 +11,7 @@
       "frame_inactive": [0, 0, 0],
       "frame_incognito": [84, 84, 84],
       "frame_incognito_inactive": [84, 84, 84],
-      "ntp_background": [14, 18, 28],
+      "ntp_background": [0, 0, 0],
       "ntp_link": [183, 194, 204],
       "ntp_text": [183, 194, 204],
       "omnibox_background": [25, 25, 35],
